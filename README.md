@@ -37,3 +37,5 @@ Git: Version control for tracking code changes and collaboration.
 GitHub: Repository hosting for sharing and collaboration.
 🎯 Purpose
 The Museum of Candy project is a demonstration of front-end web development skills, focusing on creating interactive, visually appealing, and fully responsive websites using modern technologies like Bootstrap and JavaScript.
+
+you can check this at : https://aishix7.github.io/museum-candy/
